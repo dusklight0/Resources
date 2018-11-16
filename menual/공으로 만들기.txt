@@ -1,0 +1,4 @@
+1. tab클릭 에디터 모드로
+2. subdivide로 면을 나눠줌
+3. shift + alt + s
+4. add modifier -> multiresolution -> subdivide

@@ -1,0 +1,7 @@
+1. 자를부분 에딧트 모드에서 선택
+2. ctrl + e -> mark stream
+3. u -> unwrap
+4. uv editer 패널에서 new 선택후 이미지 생성
+5. 로우폴 선택후 메터리얼 생성 후 방금만든 이미지 텍스쳐로 추가
+6. 하이폴 선택후 로우폴 선택
+7. render 모드에서 bake, mode는 normal, selected to active 체크

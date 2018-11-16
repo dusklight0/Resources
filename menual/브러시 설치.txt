@@ -1,0 +1,3 @@
+1. shift + f1
+2. 브러시 파일 선택
+3. 브러시들 선택 후 append to library
